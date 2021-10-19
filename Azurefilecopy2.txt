@@ -1,0 +1,1 @@
+This is the azure file copy2 to test the azure file copy task.
